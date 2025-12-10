@@ -70,6 +70,9 @@ streamlit run Streamlit_app.py
 
 L'application s'ouvrira automatiquement dans votre navigateur par défaut (http://localhost:8501).
 
+Il est également possible de lancer l'application en ligne :
+https://datasciencetoolsfinalproject-evmvo8i8n2aqojyumr4b5s.streamlit.app
+
 ### 🔑 Variables Clés Analysées
 **hotel** : Type d'hôtel (City Hotel ou Resort Hotel).
 
