@@ -21,11 +21,15 @@ Le fichier `requirements.txt` contient la liste complète des dépendances.
 ```
 
 # Installation des dépendances
+
+```bash
 pip install -r requirements.txt
+```
 
 ### 2. Organisation des Fichiers
 
 Assurez-vous que les fichiers sont organisés comme suit :
+
 ```
 .
 ├── data/
@@ -36,6 +40,7 @@ Assurez-vous que les fichiers sont organisés comme suit :
 ├── requirements.txt    # Liste des dépendances (si tu l'as créée)
 └── README.md           # Ce fichier
 ```
+
 ### 3. Étapes d'exécution
 
 #### A. Exécution du Notebook Jupyter
@@ -47,6 +52,7 @@ Lancer Jupyter Lab ou Jupyter Notebook :
 ``` Bash
 jupyter notebook
 ```
+
 Ouvrir et exécuter le notebook EDA_Hotel_Bookings.ipynb de haut en bas.
 
 #### B. Lancement de l'application Streamlit
@@ -58,8 +64,9 @@ S'assurer d'être dans le répertoire du projet.
 Lancer l'application :
 
 ``` Bash
-streamlit run app.py
+streamlit run Streamlit_app.py
 ```
+
 L'application s'ouvrira automatiquement dans votre navigateur par défaut (http://localhost:8501).
 
 ### 🔑 Variables Clés Analysées
