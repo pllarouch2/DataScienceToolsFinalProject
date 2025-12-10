@@ -21,7 +21,7 @@ Le fichier `requirements.txt` contient la liste complète des dépendances.
 ```
 
 
-# Installation des dépendances
+#### Installation des dépendances
 
 ```bash
 pip install -r requirements.txt
