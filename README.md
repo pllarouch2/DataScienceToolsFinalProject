@@ -20,6 +20,7 @@ Le fichier `requirements.txt` contient la liste complète des dépendances.
 # .\venv\Scripts\activate   # Windows
 ```
 
+
 # Installation des dépendances
 
 ```bash
